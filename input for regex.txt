@@ -1,0 +1,7 @@
+a[3*(\d\D)]~b
+5
+a33b
+a1z3q4P9
+b1z3q4Pa
+a9q8p7o1
+a1A2B3Ca

@@ -1,0 +1,7 @@
+#ignore
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*vcxproj.user
+log/
+
